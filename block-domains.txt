@@ -1,0 +1,41 @@
+# [Eng] This is a quick list of domain in Vietnam which is serving ads on websites.
+# Mainly created for Pi-hole, just right-click at Raw button, choose copy link address and paste it into /etc/pihole/adlists.list
+# Domains like Google's AdWords, Doubleclick.net, etc. are manually included in Pi-hole's adlists file
+#
+# [Vie] Đây là 1 list đơn giản tập hợp các domain để chạy quảng cáo trên các website ở Việt Nam.
+# Chủ yếu để sử dụng cho Pi-hole - chặn quảng cáo ở nhà, chỉ cần chuột phải nút Raw ở trên, chọn copy link và dán vào file /etc/pihole/adlists.list
+# Các domains quảng cáo thông dụng như Google AdWords, Doubleclick.net, v.v... đã cài sẵn ở Pi-hole
+# Một vài domain đã được tham khảo từ abpvn
+# Lưu ý: do chỉ chặn domain nên có một vài quảng cáo sẽ có thể lọt qua do load thẳng từ website bạn đang xem.
+
+adi.admicro.vn
+adx.admicro.vn
+qc.coccoc.com
+somo.com
+vietnamnetad.vn
+topnews24h.net
+aecaykem.com
+webtretho.com
+24honline.net
+toptin24.com
+docbao24h.me
+thichluotweb.com
+nong24h.net
+ag24h.com
+vftnews.com
+baodive.com
+phunusuckhoe.vn
+game8.vn
+mnewsvn.com
+tinnhanhso.com
+ione.net
+webtintuc.com
+phunu.phununew.info
+oxii.vn
+tintucvietnam360.com
+trangcuocsong.com
+phununet.info
+traixinhgaidep.com
+chinhem.com
+phunu.news
+tangcuongsinhlucnam.com
